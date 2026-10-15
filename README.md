@@ -36,6 +36,8 @@ Then launch **NetTune** from your application menu. Or build it from source (see
 - Before/after comparison that ignores normal noise.
 - No cloud, no account, no telemetry. Runs unprivileged; asks for authorization only for the one change.
 
+![All measurements: per-target ping latency, jitter and loss, plus DNS resolver benchmark](docs/screenshot-measurements.png)
+
 ![Reversible Wi-Fi power-saving recommendation with confirmation and side effects](docs/screenshot-recommendation.png)
 
 ## How it works
